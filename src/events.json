@@ -11,7 +11,13 @@
          "text" : "January 20, 2025, Virtual event in Zoom",
          "title" : "GitLab pipelines and CI for Perl developers",
          "url" : "https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers"
-      }
+      },
+      {
+         "begin" : "2025-07-03T10:30:00-05:00",
+         "text" : "July 03, 2025, Hybrid 2-Day Summer Perl Conference Hosted by Perl Community",
+         "title" : "Summer Perl Community Conference",
+         "url" : "https://www.meetup.com/austin-perl-mongers/events/304573306/"
+      },
    ],
    "title" : "Events"
 }
